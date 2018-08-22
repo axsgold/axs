@@ -144,9 +144,6 @@ server=1
 listen=1
 daemon=1
 staking=0
-masternode=1
-masternodeaddr=$IP:33771
-masternodeprivkey=$KEY\n" > /root/.axs/axs.conf
 addnode=209.250.251.252:33771
 addnode=217.69.0.8:33771
 addnode=209.250.239.117:33771
@@ -160,6 +157,9 @@ addnode=45.32.13.142:33771
 addnode=149.28.31.61:33771
 addnode=45.77.25.10:33771
 addnode=207.148.106.155:33771
+masternode=1
+masternodeaddr=$IP:33771
+masternodeprivkey=$KEY\n" > /root/.axs/axs.conf
 
 MNCONF="MN1 "$IP":"$PORT" "$KEY" "$TXID" "$TXO
 
