@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-DAEMON_URL=https://github.com/axsgold/axs/releases/download/v2.0.0.1-FORK/axsd-precompiled-daemon-v2.zip
-DAEMON_FILE=axsd-precompiled-daemon-v2.zip
+DAEMON_URL=https://github.com/axsgold/axs/releases/download/v4.0.0.2/axs-v4-precompiled-daemon.zip
+DAEMON_FILE=axs-v4-precompiled-daemon.zip
 
 function prepare_swap() {
 	if free | awk '/^Swap:/ {exit !$2}'; then
@@ -105,8 +105,8 @@ cd /root
 unzip -qq $DAEMON_FILE
 
 # Create config
-rm -rf /root/.axs
-mkdir .axs
+rm -rf /root/.axs4
+mkdir .axs4
 
 PASS="$(pwgen -1 -s 44)"
 
@@ -144,26 +144,16 @@ server=1
 listen=1
 daemon=1
 staking=0
-addnode=209.250.251.252:33771
-addnode=217.69.0.8:33771
-addnode=209.250.239.117:33771
-addnode=45.76.133.189:33771
-addnode=207.148.115.228:33771
-addnode=45.63.124.201:33771
-addnode=66.42.34.104:33771
-addnode=108.160.131.220:33771
-addnode=149.28.29.172:33771
-addnode=45.32.13.142:33771
-addnode=149.28.31.61:33771
-addnode=45.77.25.10:33771
-addnode=207.148.106.155:33771
+addnode=95.179.132.198:51711
+addnode=45.63.121.133:51711
+addnode=66.42.49.66:51711
 masternode=1
-masternodeaddr=$IP:33771
-masternodeprivkey=$KEY\n" > /root/.axs/axs.conf
+masternodeaddr=$IP:51711
+masternodeprivkey=$KEY\n" > /root/.axs4/axs.conf
 
 MNCONF="MN1 "$IP":"$PORT" "$KEY" "$TXID" "$TXO
 
-echo "Creating AXS.conf file"
+echo "Creating AXS4.conf file"
 echo
 
 echo "Your AXS masternode is ready to go!"
