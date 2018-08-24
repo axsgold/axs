@@ -116,7 +116,7 @@ IP="$(wget -qO- -o- ipinfo.io/ip)"
 read -e -i "$IP" -p "Confirm masternode IPv4 Address: " input
 IP="${input:-$IP}"
 
-PORT=33771
+PORT=51711
 read -e -i "$PORT" -p "Confirm masternode port: " input
 PORT="${input:-$PORT}"
 
