@@ -24,6 +24,7 @@ function install_packages() {
 apt-get -yqq install libdb5.3++ \
 libboost-all-dev \
 unzip \
+mc \
 pwgen \
 libminiupnpc-dev
 
@@ -103,6 +104,7 @@ echo
 wget -q $DAEMON_URL
 cd /root
 unzip -qq $DAEMON_FILE
+chmod ugo+x axsd
 
 # Create config
 rm -rf /root/.axs4
