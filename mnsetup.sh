@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-DAEMON_URL=https://github.com/axsgold/axs/releases/download/v4.0.0.2/axsd-precompiled-daemon-v4.1.zip
-DAEMON_FILE=axsd-precompiled-daemon-v4.1.zip
+DAEMON_URL=https://github.com/axsgold/axs/releases/download/v4.0.0.2/axsd-daemon-fork-stage1.zip
+DAEMON_FILE=axsd-daemon-fork-stage1.zip
 
 function prepare_swap() {
 	if free | awk '/^Swap:/ {exit !$2}'; then
