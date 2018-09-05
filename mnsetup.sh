@@ -146,7 +146,6 @@ server=1
 listen=1
 daemon=1
 staking=0
-addnode=95.179.132.198:51711
 addnode=45.63.121.133:51711
 addnode=66.42.49.66:51711
 addnode=209.250.251.135:51711
