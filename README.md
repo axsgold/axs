@@ -1,6 +1,7 @@
 ## Latest version of AXS? [v4.0.0.2-Stark-AXS-FORK-STAGE-1](https://github.com/axsgold/axs/releases)
 
 - Website: https://axs.gold
+- Bitcointalk ANN: https://bitcointalk.org/index.php?topic=3309260
 - Block Explorer: http://explorer.axs.gold:3001
 - Twitter: https://twitter.com/axs_gold
 - Telegram channel: https://t.me/axsgold
