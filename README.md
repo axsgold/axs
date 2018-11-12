@@ -1,5 +1,6 @@
 ## Latest version of AXS? [v4.0.0.2-Stark-AXS-FORK-STAGE-1](https://github.com/axsgold/axs/releases)
 
+- Website: https://axs.gold
 - Block Explorer: http://explorer.axs.gold:3001
 - Twitter: https://twitter.com/axs_gold
 - Telegram channel: https://t.me/axsgold
@@ -59,5 +60,3 @@ Blocks: 15000-20000 = 8 AXS (70% for MN)
 Blocks: 20000-200000 = 4 AXS (70% for MN)
 Blocks: 200000-1000000 = 3 AXS (70% for MN)
 ```
-
-	
