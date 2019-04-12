@@ -1,4 +1,4 @@
-## Latest version of AXS? [v4.0.0.2-Stark-AXS-FORK-STAGE-1](https://github.com/axsgold/axs/releases)
+## This is OLD version of wallet [v4.0.0.2-Stark-AXS-FORK-STAGE-1](https://github.com/axsgold/axs/releases)
 
 - Website: https://axs.gold
 - Bitcointalk ANN: https://bitcointalk.org/index.php?topic=3309260
@@ -30,6 +30,8 @@ Your life is just a moment. And only this moment you may improve. Accordingly, s
 In some point, if you will do everything right, you will realize that your dreams come true, and every new day brings more happiness to your life.  How to make it right? During the decision-making listen for your inner voices of the logic and intuition. Doubts arise only when they disagreement with one another, but when your inner voices talking as one you understand that it’s exactly what is needed.
 
 Dream! Live! And be Yourself! Everything is Possible!
+
+## OLD INFO
 
 # Name: AXS
 
