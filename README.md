@@ -1,4 +1,4 @@
-## This is OLD version of wallet [v4.0.0.2-Stark-AXS-FORK-STAGE-1](https://github.com/axsgold/axs/releases)
+## The new version of wallet [v5.0.0.0-g](https://github.com/axsgold/axs/releases)
 
 - Website: https://axs.gold
 - Bitcointalk ANN: https://bitcointalk.org/index.php?topic=3309260
