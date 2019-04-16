@@ -41,6 +41,7 @@ Block Time: 60 Seconds
 Confirmations: 10 Confirmations
 Stake Maturity: 15 Confirmations
 Masternodes collateral: 30 000 AXS
+Max Coin Supply: 21 000 000
 ```
 
 # PoS Block Reward:
