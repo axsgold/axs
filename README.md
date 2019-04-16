@@ -35,7 +35,8 @@ Dream! Live! And be Yourself! Everything is Possible!
 
 # Name: AXS
 
-```Algo: Only PoS & Masternodes
+```
+Algo: Only PoS & Masternodes
 Block Time: 60 Seconds
 Confirmations: 10 Confirmations
 Stake Maturity: 15 Confirmations
