@@ -31,35 +31,32 @@ In some point, if you will do everything right, you will realize that your dream
 
 Dream! Live! And be Yourself! Everything is Possible!
 
-## OLD INFO
+## TOKEN INFO
 
 # Name: AXS
 
-```Algo: C11
-Block Time: 90 Seconds
+```Algo: Only PoS & Masternodes
+Block Time: 60 Seconds
 Confirmations: 10 Confirmations
-Mined Confirmations: 91 Confirmations
-Time Drift: 45 Seconds
-Stake Maturity: 24 Hours
-Masternode Maturity: 600 Confirmations
+Stake Maturity: 15 Confirmations
+Masternodes collateral: 30 000 AXS
 ```
-# PoW Block Reward:
 
-```Blocks: 1-1500 = 0.5 AXS
-Blocks: 1501-10000 = 10 AXS
-Blocks: 10001-15000 = 7 AXS
-Blocks: 15001-20000 = 4 AXS
-Blocks: 20000-200000 = 2 AXS
-Blocks: 200000-1000000 = 1.75 AXS
-```
 # PoS Block Reward:
 
 ```
-Masternode Rewards: 70% from PoS Rewards
+Blocks: 201-2,102,399 = 1,4 AXS 
+(1,15 AXS for MN and 0,25 AXS Staking)
 
-Blocks: 1-10000 = 21 AXS (70% for MN)
-Blocks: 10000-15000 = 13 AXS (70% for MN)
-Blocks: 15000-20000 = 8 AXS (70% for MN)
-Blocks: 20000-200000 = 4 AXS (70% for MN)
-Blocks: 200000-1000000 = 3 AXS (70% for MN)
+Blocks: 2,102,400-4,204,799 = 1,25 AXS 
+(1,05 AXS for MN and 0,2 AXS Staking)
+
+Blocks: 4,204,800-6,307,199 = 0,7 AXS 
+(0,55 AXS for MN and 0,15 AXS Staking)
+
+Blocks: 6,307,200-8,409,599 = 0,35 AXS 
+(0,28 AXS for MN and 0,07 AXS Staking)
+
+Blocks: 8,409,600-10,511,999 = 0,15 AXS 
+(0,12 AXS for MN and 0,03 AXS Staking)
 ```
