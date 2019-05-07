@@ -62,3 +62,6 @@ Blocks: 6,307,200-8,409,599 = 0,35 AXS
 Blocks: 8,409,600-10,511,999 = 0,15 AXS 
 (0,12 AXS for MN and 0,03 AXS Staking)
 ```
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
