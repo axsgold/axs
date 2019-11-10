@@ -2,7 +2,7 @@
 
 - Website: https://axs.gold
 - Bitcointalk ANN: https://bitcointalk.org/index.php?topic=3309260
-- Block Explorer: http://explorer.axs.gold:3001
+- Block Explorer: http://explorer.axs.gold
 - Twitter: https://twitter.com/axs_gold
 - Telegram channel: https://t.me/axsgold
 - Discord: https://discord.gg/p7NtVS2
