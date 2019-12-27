@@ -1,4 +1,4 @@
-## The new version of wallet [v5.0.0.0-g](https://github.com/axsgold/axs/releases)
+## The new version of wallet [v2.0.0](https://github.com/axsgold/axs/releases)
 
 - Website: https://axs.gold
 - Bitcointalk ANN: https://bitcointalk.org/index.php?topic=3309260
@@ -41,14 +41,14 @@ Block Time: 60 Seconds
 Confirmations: 10 Confirmations
 Stake Maturity: 15 Confirmations
 Masternodes collateral: 30 000 AXS
-Max Coin Supply: 21 000 000
+Max Coin Supply: 99 000 000 AXS
 ```
 
 # PoS Block Reward:
 
 ```
-Blocks: 201-2,102,399 = 1,4 AXS 
-(1,15 AXS for MN and 0,25 AXS Staking)
+Blocks: 201-2,102,399 = 3,15 AXS 
+(3,01 AXS for MN and 0,14 AXS Staking)
 
 Blocks: 2,102,400-4,204,799 = 1,25 AXS 
 (1,05 AXS for MN and 0,2 AXS Staking)
