@@ -1,8 +1,8 @@
 ## The new version of wallet [v2.0.0](https://github.com/axsgold/axs/releases)
 
-- Website: https://axs.gold
+- Website: https://axsg.org
 - Bitcointalk ANN: https://bitcointalk.org/index.php?topic=3309260
-- Block Explorer: https://explorer.axs.gold
+- Block Explorer: https://blockchain.axsg.org
 - Twitter: https://twitter.com/axs_gold
 - Telegram channel: https://t.me/axsgold
 - Discord: https://discord.gg/p7NtVS2
